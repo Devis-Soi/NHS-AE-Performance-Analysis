@@ -1,4 +1,4 @@
-# DAX measures --- technical reference
+# DAX measures - technical reference
 
 This reference records the formulas confirmed during project
 documentation, plus the agreed calculation patterns for department
