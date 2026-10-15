@@ -2,8 +2,8 @@
 
 **Tools:** Power BI Desktop · Power Query · DAX\
 **Source:** NHS England, Monthly A&E Time Series\
-**Data period:** August 2010--August 2026\
-**Annual comparisons:** Complete calendar years, 2011--2025
+**Data period:** August 2010 - August 2026\
+**Annual comparisons:** Complete calendar years, 2011 - 2025
 
 ## Project overview
 
@@ -229,8 +229,7 @@ https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-an
 -   `images/` - screenshots of the five final dashboard pages.
 -   `DAX_MEASURES.md` - selected DAX definitions and documented
     calculation patterns.
--   **Power BI report (`.pbix`):** to be added separately once the final
-    report file is ready to share.
+-   **Power BI report (`.pbix`):** - [NHS_AE_PowerBI_portfolio_project.pbix](NHS_AE_PowerBI_portfolio_project.pbix) - Download and open the interactive report in Power BI Desktop.
 
 ------------------------------------------------------------------------
 
