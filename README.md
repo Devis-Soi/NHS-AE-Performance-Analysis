@@ -120,12 +120,12 @@ details are provided in [DAX technical reference](DAX_MEASURES.md).
 
 The Executive Summary metrics were independently checked:
 
-  KPI                                           Validated result
-  ------------------------------------------- ------------------
-  Total A&E attendances, Aug 2010--Aug 2026          382,411,747
-  Overall four-hour performance                            84.7%
-  Average daily attendance                             65,091.36
-  Attendance growth, 2025 versus 2024                      1.35%
+| KPI | Validated result |
+|---|---:|
+| Total A&E attendances, Aug 2010–Aug 2026 | 382,411,747 |
+| Overall four-hour performance | 84.7% |
+| Average daily attendance | 65,091.36 |
+| Attendance growth, 2025 versus 2024 | 1.35% |
 
 ## Dashboard pages
 
@@ -226,8 +226,8 @@ https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-an
 
 ## Project files
 
--   `images/` --- screenshots of the five final dashboard pages.
--   `DAX_MEASURES.md` --- selected DAX definitions and documented
+-   `images/` - screenshots of the five final dashboard pages.
+-   `DAX_MEASURES.md` - selected DAX definitions and documented
     calculation patterns.
 -   **Power BI report (`.pbix`):** to be added separately once the final
     report file is ready to share.
